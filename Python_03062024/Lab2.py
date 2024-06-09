@@ -1,1 +1,1 @@
-print("LAb 002")
+print('LAb 002')
