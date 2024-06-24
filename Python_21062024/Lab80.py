@@ -1,0 +1,7 @@
+heroine3 = ("Wonder Woman", "Hello")
+heroine4 = ("Moumita", "Hi")
+new_tuple=(heroine3,heroine4)
+print(new_tuple)
+print(new_tuple[1])
+print(new_tuple[0])
+print(new_tuple[0][0])
